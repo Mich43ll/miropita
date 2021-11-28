@@ -1,5 +1,6 @@
 :root {
     --principal_color: #5b5b5b;
+    --galeria: #e3e3e3
 }
 
 * {
@@ -79,6 +80,11 @@ img
 
 }
 
+.galeria{
+    background-color: black;
+    width: 200px;
+    height: 500px;
+}
 
 
 
