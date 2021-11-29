@@ -70,21 +70,14 @@ a {
     color: white;
 }
 
-
-img
-{
+.sec__trending {
     display: flex;
+    flex-direction: row;
     justify-content: center;
-    align-items: center;
+    height: 150px;
+  }
 
 
-}
-
-.galeria{
-    background-color: black;
-    width: 200px;
-    height: 500px;
-}
 
 
 
